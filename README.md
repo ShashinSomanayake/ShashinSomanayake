@@ -1,200 +1,121 @@
 
-<h1 align="center">Shashin Somanayake</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer · AI Enthusiast · Unity Game Developer</h3>
+<h1>
+  <strong>SHASHIN SOMANAYAKE</strong>
+</h1>
 
-<p align="center">
-  <a href="https://shashinsomanayake.pages.dev/">Portfolio</a> ·
-  <a href="https://github.com/ShashinSomanayake">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/shashin-somanayake-1a76a4342/">LinkedIn</a> ·
-  <a href="mailto:shashinsomanayake.work@gmail.com">Email</a>
-</p>
+<h3>
+  💻 Software Engineer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 🎮 Game Developer
+</h3>
 
-<p align="center">
-  <i>Building things, exploring ideas, and figuring out how technology works.</i>
-</p>
-
----
-
-## About Me
-
-I'm a second-year BSc Computer Science undergraduate at **Edith Cowan University, Sri Lanka**, with around two years of hands-on programming experience.
-
-I'm interested in software engineering, artificial intelligence, game development, and experimenting with technology beyond conventional use cases.
-
-I enjoy building practical tools, exploring local AI models, experimenting with multi-model workflows, and developing interactive experiences with Unity.
-
-- 🎓 BSc Computer Science Undergraduate — ECU Sri Lanka
-- 🤖 Exploring Local LLMs and Multi-AI Orchestration
-- 🎮 Unity 2D/3D Game Developer
-- 💻 Interested in Software Engineering and Systems
-- 🔬 Learning through experimentation and building
-- 🎧 Interested in EDM Production and Sound Design
-
-**Currently open to opportunities from January 2027.**
-
----
-
-## Academic Highlights
-
-| Achievement | Result |
-|:---|:---:|
-| GPA | **3.962 / 4.000** |
-| Weighted Average Mark | **86.462** |
-| High Distinctions | **12** |
-| Distinctions | **1** |
-| Completed Subjects | **13** |
-| Unity Games Shipped | **5** |
-
----
-
-## Technical Skills
-
-**Programming Languages**
-
-`Python` `C#` `C++` `Dart` `Ruby`
-
-**Frameworks & Technologies**
-
-`Unity` `Flutter` `Ruby on Rails` `llama.cpp`
-
-**Development Tools**
-
-`Git` `GitHub` `VS Code` `Android Studio` `Linux`
-
-**Areas of Interest**
-
-- Artificial Intelligence & Local LLMs
-- Multi-AI Orchestration
-- Agentic AI Systems
-- Prompt Engineering
-- Unity Game Development
-- Application Development
-- Android System Experimentation
-- Software Engineering
-
----
-
-## Featured Projects
-
-### Multi-AI Orchestration Framework
-
-An experimental framework exploring how multiple AI models can work together as a coordinated team.
-
-Explores collaborative workflows involving ChatGPT, Claude, Gemini, and local LLMs.
-
-**Technologies:** Python · AI · LLM Orchestration
-
-### Miguel Agentic AI Framework
-
-My first experimental agentic AI framework, exploring multi-step reasoning, tool usage, and autonomous task execution.
-
-An ongoing learning project with known bugs and plenty of room for improvement.
-
-**Technologies:** Python · Agentic AI
-
-### ResearchVault — Academic Reference Manager
-
-An open-source academic reference manager that runs entirely in the browser.
-
-Features automatic metadata retrieval, reference management, and citation generation.
-
-Supported citation styles:
-- APA
-- MLA
-- Chicago
-- Harvard
-- Vancouver
-- IEEE
-
-**Technologies:** HTML · Web Development
-
-### Hugging Face Download Manager
-
-A resumable download manager for GGUF AI models.
-
-Designed to handle interrupted network connections, system sleep, and power outages without losing download progress.
-
-**Technologies:** Python · AI · Download Management
-
-<p align="center">
-  <a href="https://github.com/ShashinSomanayake?tab=repositories">
-    Explore All My Repositories →
+<p>
+  <a href="https://shashinsomanayake.pages.dev/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-8A5CF6?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ShashinSomanayake">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashin-somanayake-1a76a4342/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
+**Building things, exploring ideas, and figuring out how technology works.**
 
-## Game Development
+🇱🇰 Colombo, Sri Lanka
 
-I enjoy building interactive experiences and exploring game mechanics using Unity.
-
-- Unity 2D and 3D Development
-- C# Programming
-- Gameplay Systems
-- Interactive Experiences
-- Game Prototyping
-
-**Milestone:** 5 Unity games shipped, achieving top scores across all submissions.
+</div>
 
 ---
 
-## Current Focus
 
-| Area | What I'm Exploring |
-|:---|:---|
-| Local AI | Running and experimenting with local LLMs |
-| AI Systems | Multi-model orchestration and agentic workflows |
-| Game Development | Unity and interactive systems |
-| Software Engineering | Building practical developer tools |
-| Application Development | Flutter, Dart and Android |
+👨‍💻 About Me
 
----
+Second-year Software Engineering undergraduate at Edith Cowan University, passionate about software engineering, artificial intelligence, game development and systems experimentation.
 
-## Leadership & Activities
+🎓 ECU Top 100 Student — 2026
+🤖 Exploring Local LLMs & Multi-AI Orchestration
+🎮 Unity 2D/3D Game Developer
+🔬 Interested in AI, systems and developer tools
+🎧 EDM Production & Sound Design
+🏆 Achievements
 
-**CodeRally 7.0**
-- Ambassador — IEEE Computer Society, IIT
+<p>
+<img src="https://img.shields.io/badge/ECU_TOP_100-FFD700?style=for-the-badge&logo=academia&logoColor=black" />
+<img src="https://img.shields.io/badge/GPA-3.962%2F4.0-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/12_HIGH_DISTINCTIONS-2563EB?style=for-the-badge" />
+</p>
 
-**ECUCoders**
-- Team Leader
-- Ranked in the Top 20 out of 267 teams
+Achievement	Result
+GPA	3.962 / 4.000
+Weighted Average Mark	86.462
+High Distinctions	12 / 13
+Unity Games Shipped	5
+ECUCoders	Top 20 / 267
+HackX 11.0	Semi-finalist
+⚡ Tech Stack
 
-**Game Development**
-- Freelance Unity Game Developer
+Languages
 
-**School Activities**
-- Western Music Society — Leader
-- IT Society — Leader
-- Mathematics Society — Leader and Member
-- Biology Society — Member
-- Physics Society — Member
-- Tennis
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+</p>
 
----
+Frameworks & Tools
 
-## Beyond Technology
+<p>
+<img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
-Outside programming, I have a strong interest in Electronic Dance Music (EDM) production and sound design.
-
-I enjoy exploring how creativity and engineering come together, whether through music, software, or interactive experiences.
-
----
-
-## Let's Connect
-
-I'm always interested in discussing software engineering, artificial intelligence, game development, and interesting technical projects.
-
-- **Email:** shashinsomanayake.work@gmail.com
-- **GitHub:** [ShashinSomanayake](https://github.com/ShashinSomanayake)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shashin-somanayake-1a76a4342/)
-- **Portfolio:** [shashinsomanayake.pages.dev](https://shashinsomanayake.pages.dev/)
-- **Instagram:** [@shashin_somanayake](https://www.instagram.com/shashin_somanayake/)
-
----
+🚀 Featured Projects
+Project	Description
+🤖 Multi-AI Orchestration	Experimenting with collaborative AI models
+🧠 Miguel AI	Experimental agentic AI framework
+📚 ResearchVault	Browser-based academic reference manager
+⚡ HF Download Manager	Resumable GGUF model downloader
 
 <p align="center">
-  <b>Thanks for visiting my GitHub!</b>
-  <br>
-  <i>Always learning. Always experimenting. Always building.</i>
+<a href="https://github.com/ShashinSomanayake?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8A5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
+
+🎮 Game Development
+
+Unity · C# · 2D · 3D
+
+Five Unity games shipped, with strong academic results across game development projects.
+
+3D Top-Down Shooter — 95%
+2D Top-Down Shooter — 95%
+🌟 Leadership & Activities
+🏅 CodeRally 7.0 — Ambassador, IEEE Computer Society
+👥 ECUCoders — Team Leader, Top 20 / 267
+🚀 HackX 11.0 — Team Lead, Futurelytics (2Job), Semi-finalist
+🎮 Freelance Unity Game Developer
+🎼 Western Music Society & IT Society — Former Leader
+🎧 Beyond Coding
+
+Electronic Dance Music production, sound design, creative experimentation and exploring the intersection of technology and creativity.
+
+<div align="center">
+
+🤝 Let's Connect
+
+Have an interesting idea? Let's build something.
+
+<a href="mailto:shashinsomanayake.work@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/shashin-somanayake-1a76a4342/">LinkedIn</a> · <a href="https://shashinsomanayake.pages.dev/">Portfolio</a> · <a href="https://github.com/ShashinSomanayake">GitHub</a>
+
+⚡ Always learning. Always experimenting. Always building.
+
+</div>
